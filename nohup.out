@@ -1,0 +1,343 @@
+
+
+
+at:8	acertos:82.41	micro:0.87	macro:0.84	100 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:33.21	micro:0.5	macro:0.49	100 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:88.96	micro:0.93	macro:0.89	100 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:88.42	micro:0.93	macro:0.88	100 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:85.19	micro:0.89	macro:0.87	200 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:32.23	micro:0.49	macro:0.47	200 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:90.39	micro:0.94	macro:0.91	200 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:88.96	micro:0.93	macro:0.89	200 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:85.19	micro:0.89	macro:0.87	300 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:32.76	micro:0.5	macro:0.48	300 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:90.57	micro:0.94	macro:0.91	300 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.22	micro:0.94	macro:0.9	300 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:85.73	micro:0.9	macro:0.87	400 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:32.5	micro:0.49	macro:0.47	400 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:90.66	micro:0.94	macro:0.91	400 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:89.86	micro:0.94	macro:0.9	400 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:86.45	micro:0.9	macro:0.88	500 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:33.21	micro:0.5	macro:0.48	500 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.02	micro:0.94	macro:0.91	500 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.04	micro:0.94	macro:0.9	500 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:86.71	micro:0.91	macro:0.88	600 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:33.57	micro:0.5	macro:0.48	600 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.56	micro:0.95	macro:0.92	600 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.22	micro:0.94	macro:0.9	600 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:86.89	micro:0.91	macro:0.88	700 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:33.93	micro:0.51	macro:0.49	700 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.38	micro:0.94	macro:0.92	700 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.31	micro:0.94	macro:0.9	700 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:86.98	micro:0.91	macro:0.88	800 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.02	micro:0.51	macro:0.49	800 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.47	micro:0.94	macro:0.92	800 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.57	micro:0.94	macro:0.91	800 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.34	micro:0.91	macro:0.89	900 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.02	micro:0.51	macro:0.49	900 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.38	micro:0.94	macro:0.92	900 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.84	micro:0.94	macro:0.91	900 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.52	micro:0.91	macro:0.89	1000 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.2	micro:0.51	macro:0.49	1000 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.38	micro:0.94	macro:0.92	1000 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.93	micro:0.94	macro:0.91	1000 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.43	micro:0.91	macro:0.89	1100 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.02	micro:0.51	macro:0.49	1100 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.47	micro:0.94	macro:0.92	1100 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.93	micro:0.94	macro:0.91	1100 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.34	micro:0.91	macro:0.89	1200 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.2	micro:0.51	macro:0.49	1200 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.56	micro:0.95	macro:0.92	1200 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.84	micro:0.94	macro:0.91	1200 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.7	micro:0.91	macro:0.89	1300 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.29	micro:0.51	macro:0.49	1300 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.56	micro:0.95	macro:0.92	1300 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	1300 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.7	micro:0.91	macro:0.89	1400 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.38	micro:0.51	macro:0.49	1400 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.56	micro:0.95	macro:0.92	1400 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	1400 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.7	micro:0.91	macro:0.89	1500 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.38	micro:0.51	macro:0.49	1500 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.65	micro:0.95	macro:0.92	1500 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	1500 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.7	micro:0.91	macro:0.89	1600 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.47	micro:0.51	macro:0.49	1600 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.56	micro:0.95	macro:0.92	1600 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	1600 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.88	micro:0.91	macro:0.89	1700 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.56	micro:0.51	macro:0.49	1700 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.65	micro:0.95	macro:0.92	1700 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	1700 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.88	micro:0.91	macro:0.89	1800 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	1800 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	1800 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.2	micro:0.95	macro:0.91	1800 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.97	micro:0.91	macro:0.89	1900 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	1900 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	1900 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	1900 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.97	micro:0.91	macro:0.89	2000 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2000 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.65	micro:0.95	macro:0.92	2000 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2000 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2100 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.52	macro:0.49	2100 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	2100 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	2100 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2200 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.52	macro:0.49	2200 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	2200 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:90.93	micro:0.94	macro:0.91	2200 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2300 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.52	macro:0.49	2300 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	2300 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2300 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2400 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.52	macro:0.49	2400 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.74	micro:0.95	macro:0.92	2400 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2400 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2500 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2500 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.83	micro:0.95	macro:0.92	2500 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2500 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:87.97	micro:0.91	macro:0.89	2600 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2600 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.83	micro:0.95	macro:0.92	2600 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2600 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.15	micro:0.92	macro:0.89	2700 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2700 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.92	micro:0.95	macro:0.92	2700 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	2700 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2800 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2800 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.92	micro:0.95	macro:0.92	2800 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	2800 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.06	micro:0.92	macro:0.89	2900 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	2900 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.83	micro:0.95	macro:0.92	2900 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	2900 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.15	micro:0.92	macro:0.89	3000 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3000 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.92	micro:0.95	macro:0.92	3000 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3000 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.15	micro:0.92	macro:0.89	3100 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3100 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:91.92	micro:0.95	macro:0.92	3100 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3100 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.15	micro:0.92	macro:0.89	3200 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3200 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3200 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3200 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.15	micro:0.92	macro:0.89	3300 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3300 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3300 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3300 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	3400 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3400 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3400 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3400 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	3500 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3500 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3500 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3500 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	3600 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3600 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3600 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3600 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	3700 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3700 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3700 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3700 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	3800 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3800 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3800 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3800 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	3900 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	3900 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	3900 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	3900 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4000 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	4000 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4000 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	4000 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	4100 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	4100 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4100 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.02	micro:0.94	macro:0.91	4100 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4200 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.65	micro:0.51	macro:0.49	4200 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4200 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4200 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	4300 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4300 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4300 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4300 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4400 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4400 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4400 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4400 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4500 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4500 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4500 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4500 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4600 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4600 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4600 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4600 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4700 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4700 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4700 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4700 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.24	micro:0.92	macro:0.89	4800 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4800 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4800 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4800 selecionados	class weka.classifiers.lazy.IBk
+
+
+
+at:8	acertos:88.33	micro:0.92	macro:0.9	4900 selecionados	class weka.classifiers.functions.SMO
+at:8	acertos:34.74	micro:0.51	macro:0.49	4900 selecionados	class weka.classifiers.misc.HyperPipes
+at:8	acertos:92.01	micro:0.95	macro:0.92	4900 selecionados	class weka.classifiers.lazy.IBk
+at:8	acertos:91.11	micro:0.94	macro:0.91	4900 selecionados	class weka.classifiers.lazy.IBk
