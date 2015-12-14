@@ -41,9 +41,9 @@ public class LeitorDados {
             while (br.ready()) {
                 linhaLida = br.readLine();
                 if (linhaLida.contains(newFile)) {
-                    if(linhaLida.contains("IBk")){//remover esta parte do codigo no futuro!!!!!
-                        br.readLine();
-                    }
+                    //if(linhaLida.contains("IBk")){//remover esta parte do codigo no futuro!!!!!
+                    //    br.readLine();
+                    //}
                     linhaLida = linhaLida.replaceAll("[a-zA-Z:]", "");
                     linhaLida = linhaLida.replaceAll("[\t\\s]", "-");
                     linhaLida = linhaLida.replaceAll("\\.", ",");
